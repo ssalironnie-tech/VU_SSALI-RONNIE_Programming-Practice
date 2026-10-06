@@ -1,0 +1,2 @@
+Python for Data Science - Practice Log
+File I/O operations and Exception handling completed successfully.
